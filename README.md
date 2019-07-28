@@ -7,7 +7,7 @@ p.s For monitoring I will use  Stackdriver.
 
 3. On master node execute "devops.sh". The script will: 
 - Create "mysql_data" on a local machine
-- Create "app" directory (for index.html file) inside the "endava_project".
+- Create "app" directory (for index.html file).
 - Create and execute a docker-stack.yml file. 
 
 4. Yaml file will include: 
