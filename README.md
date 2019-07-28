@@ -1,4 +1,4 @@
- This is an application stack stack tested on Google Cloud Platform‎.
+ This is an application stack tested on Google Cloud Platform‎.
 
 1. Create Docker Swarm with three nodes - one master, and two workers. 
 
